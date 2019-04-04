@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/SLApp/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SLApp/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/SLApp/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLApp/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/SLApp/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SLApp/MainPage.xaml.vb))
 * **[MainPageViewModel.cs](./CS/SLApp/MainPageViewModel.cs) (VB: [MainPageViewModel.vb](./VB/SLApp/MainPageViewModel.vb))**
 <!-- default file list end -->
