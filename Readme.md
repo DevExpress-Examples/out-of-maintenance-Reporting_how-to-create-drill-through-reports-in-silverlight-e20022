@@ -6,6 +6,9 @@
 * **[MainPageViewModel.cs](./CS/SLApp/MainPageViewModel.cs) (VB: [MainPageViewModel.vb](./VB/SLApp/MainPageViewModel.vb))**
 <!-- default file list end -->
 # How to create drill-through reports in Silverlight
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e20022)**
+<!-- run online end -->
 
 
 <p>This demonstration illustrates the creation of drill through reporting with our reporting suite in conjunction with Silverlight.</p>
